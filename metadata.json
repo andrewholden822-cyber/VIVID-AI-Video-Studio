@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Generator",
+  "description": "Unlimited 100% free AI video generation studio powered by Gemini & Veo, featuring text-to-video, image-to-video, scene storyboarding, voiceovers, camera FX, and WebM video export with zero restrictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
